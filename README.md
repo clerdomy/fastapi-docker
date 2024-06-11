@@ -115,12 +115,11 @@ Sinta-se à vontade para abrir issues e pull requests para melhorar este projeto
 
 ### Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
+Este projeto está licenciado sob a Licença MIT.
 
 Esse `README.md` fornece uma visão geral do projeto, instruções de configuração e execução, além de detalhes sobre os endpoints da API. Certifique-se de ajustar o conteúdo conforme necessário para refletir com precisão o seu projeto.
 
-Referências
+## Referências
 FastAPI: https://fastapi.tiangolo.com/
 
 Pydantic: https://docs.pydantic.dev/latest/
